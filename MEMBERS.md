@@ -35,15 +35,3 @@
 | [澜嵚](https://github.com/shaozj) | #00011 | cc | 2018年8月22日 |
 | [十条](https://github.com/LeezQ) | #00012 | cc | 2018年8月24日 |
 
----
-
-### 介绍人列表
-![介绍人列表](https://gw.alipayobjects.com/zos/rmsportal/kqxQDcsUmPzlUlUcTKgY.png)
-
----
-
-### 介绍信模板
-1. 被介绍人的简单介绍
-2. 所擅长的前端领域
-3. 畅所欲言
-4. 未完待续...
