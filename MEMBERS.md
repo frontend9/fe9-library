@@ -20,20 +20,20 @@
 ---
 
 ### 编号列表
-| 账号 | 编号 | 介绍人 | 擅长领域 | 入部时间 |
+| 账号 | 编号 | 介绍人 | 入部时间 |
 | --- | --- | --- | --- | --- |
-| [玉伯](https://github.com/lifesinger) | #00001 | - | - | - |
-| [cc](https://github.com/acodercc) | #00002 | 玉伯 | - | - |
-| [龙茶](https://github.com/focus7eleven) | #00003 | cc | - | - |
-| [兼续](https://github.com/rdmclin2) | #00004 | cc | - | - |
-| [至正](https://github.com/chenkan) | #00005 | cc | - | - |
-| [离莜](https://github.com/liyouu) | #00006 | cc | - | - |
-| [尽龙](https://github.com/brickspert) | #00007 | cc | - | - |
-| [依鹭](https://github.com/Ariel-Cheng) | #00008 | cc | - | - |
-| [崇升](https://github.com/pinggod) | #00009 | cc | - | - |
-| [方涣](https://github.com/Deturium) | #000010 | cc | - | - |
-| [澜嵚](https://github.com/shaozj) | #00011 | cc | - | - |
-| [十条](https://github.com/LeezQ) | #00012 | cc | - | - |
+| [玉伯](https://github.com/lifesinger) | #00001 | - | 2018/7/25 |
+| [cc](https://github.com/acodercc) | #00002 | 玉伯 | 2018/8/14 |
+| [龙茶](https://github.com/focus7eleven) | #00003 | cc | 2018/8/20 |
+| [兼续](https://github.com/rdmclin2) | #00004 | cc | 2018/8/20 |
+| [至正](https://github.com/chenkan) | #00005 | cc | 2018/8/21 |
+| [离莜](https://github.com/liyouu) | #00006 | cc | 2018/8/21 |
+| [尽龙](https://github.com/brickspert) | #00007 | cc | 2018/8/21 |
+| [依鹭](https://github.com/Ariel-Cheng) | #00008 | cc | 2018/8/21 |
+| [崇升](https://github.com/pinggod) | #00009 | cc | 2018/8/21 |
+| [方涣](https://github.com/Deturium) | #000010 | cc | 2018/8/22 |
+| [澜嵚](https://github.com/shaozj) | #00011 | cc | 2018/8/22 |
+| [十条](https://github.com/LeezQ) | #00012 | cc | 2018/8/24 |
 
 ---
 
