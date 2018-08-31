@@ -31,7 +31,7 @@
 | [尽龙](https://github.com/brickspert) | #00007 | cc | 2018年8月21日 |
 | [依鹭](https://github.com/Ariel-Cheng) | #00008 | cc | 2018年8月21日 |
 | [崇升](https://github.com/pinggod) | #00009 | cc | 2018年8月21日 |
-| [方涣](https://github.com/Deturium) | #000010 | cc | 2018年8月22日 |
+| [方涣](https://github.com/Deturium) | #00010 | cc | 2018年8月22日 |
 | [澜嵚](https://github.com/shaozj) | #00011 | cc | 2018年8月22日 |
 | [十条](https://github.com/LeezQ) | #00012 | cc | 2018年8月24日 |
 
