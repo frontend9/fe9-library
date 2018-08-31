@@ -11,10 +11,16 @@
 ### 研发流程
 ### 体验度量和优化([performance](https://github.com/frontend9/fe9-library/issues?q=is%3Aissue+is%3Aopen+label%3Aperformance))
 ### 可视化（antV）
-### typeScript
 ### Rxjs
 ### ...
 
+---
 
+##前端九部
+
+#### [使命愿景](https://github.com/frontend9/fe9-library/blob/master/ABOUTUS.md)
+#### [组织发展历史](https://github.com/frontend9/fe9-library/blob/master/HISTORY.md)
+#### [组织成员](https://github.com/frontend9/fe9-library/blob/master/MEMBERS.md)
+#### [加入九部](https://github.com/frontend9/fe9-library/blob/master/JOINUS.md)
 
 
