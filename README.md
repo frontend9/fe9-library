@@ -16,7 +16,7 @@
 
 ---
 
-##前端九部
+## 前端九部
 
 #### [使命愿景](https://github.com/frontend9/fe9-library/blob/master/ABOUTUS.md)
 #### [组织发展历史](https://github.com/frontend9/fe9-library/blob/master/HISTORY.md)
