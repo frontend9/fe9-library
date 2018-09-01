@@ -34,4 +34,5 @@
 | [方涣](https://github.com/Deturium) | #00010 | cc | 2018年8月22日 |
 | [澜嵚](https://github.com/shaozj) | #00011 | cc | 2018年8月22日 |
 | [十条](https://github.com/LeezQ) | #00012 | cc | 2018年8月24日 |
+| [迫风](https://github.com/xc1427) | #00013 | cc | 2018年9月1日 |
 
