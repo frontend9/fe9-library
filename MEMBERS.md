@@ -35,4 +35,6 @@
 | [澜嵚](https://github.com/shaozj) | #00011 | cc | 2018年8月22日 |
 | [十条](https://github.com/LeezQ) | #00012 | cc | 2018年8月24日 |
 | [迫风](https://github.com/xc1427) | #00013 | cc | 2018年9月1日 |
+| [何幻](https://github.com/thzt) | #00014 | 澜嵚 | 2018年9月4日 |
+| [秀鑫](https://github.com/Lovesueee) | #00015 | 兼续 | 2018年9月4日 |
 
