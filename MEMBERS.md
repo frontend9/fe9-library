@@ -37,4 +37,5 @@
 | [迫风](https://github.com/xc1427) | #00013 | cc | 2018年9月1日 |
 | [何幻](https://github.com/thzt) | #00014 | 澜嵚 | 2018年9月4日 |
 | [秀鑫](https://github.com/Lovesueee) | #00015 | 兼续 | 2018年9月4日 |
+| [炫明](https://github.com/swindme) | #00016 | cc | 2018年9月5日 |
 
