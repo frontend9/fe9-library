@@ -39,5 +39,5 @@
 | [秀鑫](https://github.com/Lovesueee) | #00015 | 兼续 | 2018年9月4日 |
 | [炫明](https://github.com/swindme) | #00016 | cc | 2018年9月5日 |
 | [轩与](https://github.com/semious) | #00017 | 澜嵚 | 2018年9月5日 |
-| [然则](https://github.com/warmhug) | #00018 | 然则 | 2018年9月9日 |
+| [然则](https://github.com/warmhug) | #00018 | cc | 2018年9月9日 |
 
