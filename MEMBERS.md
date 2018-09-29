@@ -40,4 +40,5 @@
 | [炫明](https://github.com/swindme) | #00016 | cc | 2018年9月5日 |
 | [轩与](https://github.com/semious) | #00017 | 澜嵚 | 2018年9月5日 |
 | [然则](https://github.com/warmhug) | #00018 | cc | 2018年9月9日 |
+| [谷童](https://github.com/valleykid) | #00019 | 澜嵚 | 2018年9月29日 |
 
