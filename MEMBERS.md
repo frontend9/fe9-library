@@ -46,4 +46,5 @@
 | [宜鑫](https://github.com/ycjcl868) | #00022 | 依鹭 | 2018年10月15日 |
 | [木羽](https://github.com/zwwill) | #00023 | cc | 2018年10月19日 |
 | [ELCARIM](https://github.com/elcarim5efil) | #00024 | cc | 2018年10月19日 |
+| [死月](https://github.com/XadillaX) | #00025 | cc | 2018年10月19日 |
 
