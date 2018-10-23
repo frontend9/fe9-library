@@ -52,3 +52,5 @@
 | [相学长](https://github.com/wuomzfx) | #00028 |  染陌 | 2018年10月23日 |
 | [段潇涵](https://github.com/DuanPengfei) | #00029 |  死月 | 2018年10月23日 |
 | [明非](https://github.com/fanmingfei) | #00030 |  渚薰 | 2018年10月23日 |
+| [Nealyang](https://github.com/Nealyang) | #00031 |  染陌 | 2018年10月23日 |
+| [兮诀](https://github.com/Aaaaaaaty) | #00032 |  染陌 | 2018年10月23日 |
