@@ -48,4 +48,5 @@
 | [ELCARIM](https://github.com/elcarim5efil) | #00024 | cc | 2018年10月19日 |
 | [死月](https://github.com/XadillaX) | #00025 | cc | 2018年10月19日 |
 | [染陌](https://github.com/answershuto) | #00026 | 死月 | 2018年10月22日 |
+| [有希](https://github.com/yyyuki1995) | #00027 |  至正 | 2018年10月23日 |
 
