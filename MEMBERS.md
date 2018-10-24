@@ -53,5 +53,5 @@
 | [段潇涵](https://github.com/DuanPengfei) | #00029 |  死月 | 2018年10月23日 | 杭州 | 大搜车 |
 | [明非](https://github.com/fanmingfei) | #00030 |  渚薰 | 2018年10月23日 | 杭州 | 阿里 |
 | [Nealyang](https://github.com/Nealyang) | #00031 |  染陌 | 2018年10月23日 | 杭州 | 阿里 |
-| [兮诀](https://github.com/Aaaaaaaty) | #00032 |  染陌 | 2018年10月23日 | 杭州 | 蚂蚁 |
+| [兮诀](https://github.com/Aaaaaaaty) | #00032 |  染陌 | 2018年10月23日 | 杭州 | 天猫 |
 | [Jsummer](https://github.com/jsummer) | #00033 |  渚薰 | 2018年10月23日 | 太原 | 思特奇 |
