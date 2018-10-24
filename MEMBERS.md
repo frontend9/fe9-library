@@ -49,7 +49,7 @@
 | [死月](https://github.com/XadillaX) | #00025 | cc | 2018年10月19日 | 杭州 | 蚂蚁 |
 | [染陌](https://github.com/answershuto) | #00026 | 死月 | 2018年10月22日 | 杭州 | 阿里 |
 | [有希](https://github.com/yyyuki1995) | #00027 |  至正 | 2018年10月23日 | 杭州 | 蚂蚁 |
-| [相学长](https://github.com/wuomzfx) | #00028 |  染陌 | 2018年10月23日 | 杭州 | 阿里 |
+| [相学长](https://github.com/wuomzfx) | #00028 |  染陌 | 2018年10月23日 | 杭州 | 蚂蚁 |
 | [段潇涵](https://github.com/DuanPengfei) | #00029 |  死月 | 2018年10月23日 | 杭州 | 大搜车 |
 | [明非](https://github.com/fanmingfei) | #00030 |  渚薰 | 2018年10月23日 | 杭州 | 阿里 |
 | [Nealyang](https://github.com/Nealyang) | #00031 |  染陌 | 2018年10月23日 | 杭州 | 阿里 |
