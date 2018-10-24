@@ -55,3 +55,4 @@
 | [Nealyang](https://github.com/Nealyang) | #00031 |  染陌 | 2018年10月23日 | 杭州 | 阿里 |
 | [兮诀](https://github.com/Aaaaaaaty) | #00032 |  染陌 | 2018年10月23日 | 杭州 | 天猫 |
 | [Jsummer](https://github.com/jsummer) | #00033 |  渚薰 | 2018年10月23日 | 太原 | 思特奇 |
+| [axuebin](https://github.com/axuebin) | #00034 |  染陌 | 2018年10月23日 | 杭州 | 51信用卡 |
