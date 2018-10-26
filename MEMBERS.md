@@ -59,3 +59,4 @@
 | [金炳](https://github.com/stone-jin) | #00035 | 染陌 | 2018年10月23日 | 杭州 | 网易 |
 | [muwoo](https://github.com/muwoo) | #00036 | axuebin | 2018年10月24日 | 杭州 | 51信用卡 |
 | [qiangdada](https://github.com/xuqiang521) | #00037 | 染陌 | 2018年10月24日 | 上海 | 美团 |
+| [尘心](https://github.com/objlong) | #00038 | 明非 | 2018年10月24日 | 北京 | 掌阅科技 |
