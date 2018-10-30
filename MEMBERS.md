@@ -63,3 +63,4 @@
 | [张翔](https://github.com/frontend9/fe9-library/issues/created_by/zhangxiang958 ) | #00039 | ELCARIM | 2018年10月24日 | 杭州 | 网易 |
 | [小Z](https://github.com/frontend9/fe9-library/issues/created_by/FreeFaller) | #00040 | 吴志瑜 | 2018年10月24日 | 杭州 | 网易 |
 | [zsx](https://github.com/frontend9/fe9-library/issues/created_by/zsxsoft) | #00041 | 何幻 | 2018年10月30日 | 福州 | 福州大学 |
+| [Carrie999](https://github.com/frontend9/fe9-library/issues/created_by/Carrie999) | #00042 | 尽龙 | 2018年10月30日 | 北京 | 猎户星空 |
