@@ -61,3 +61,4 @@
 | [qiangdada](https://github.com/frontend9/fe9-library/issues/created_by/xuqiang521) | #00037 | 染陌 | 2018年10月24日 | 上海 | 美团 |
 | [尘心](https://github.com/frontend9/fe9-library/issues/created_by/objlong) | #00038 | 明非 | 2018年10月24日 | 北京 | 掌阅科技 |
 | [张翔](https://github.com/frontend9/fe9-library/issues/created_by/zhangxiang958 ) | #00039 | ELCARIM | 2018年10月24日 | 杭州 | 网易 |
+| [小Z](https://github.com/frontend9/fe9-library/issues/created_by/FreeFaller) | #00040 | 吴志瑜 | 2018年10月24日 | 杭州 | 网易 |
