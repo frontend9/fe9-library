@@ -66,3 +66,4 @@
 | [冉宁](https://github.com/frontend9/fe9-library/issues/created_by/wangning0) | #00042 | 死月 | 2018年10月26日 | 北京 | 字节跳动 |
 | [王潭](https://github.com/frontend9/fe9-library/issues/created_by/summercloud ) | #00043 | 死月 | 2018年10月26日 | 杭州 | 网易 |
 | [iuiaoin](https://github.com/frontend9/fe9-library/issues/created_by/iuiaoin ) | #00044 | ELCARIM | 2018年10月26日 | 杭州 | 网易 |
+| [君羽](https://github.com/frontend9/fe9-library/issues/created_by/ImHype ) | #00045 | 木羽 | 2018年10月29日 | 杭州 | 网易 |
