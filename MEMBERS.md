@@ -68,3 +68,4 @@
 | [iuiaoin](https://github.com/frontend9/fe9-library/issues/created_by/iuiaoin ) | #00044 | ELCARIM | 2018年10月26日 | 杭州 | 网易 |
 | [君羽](https://github.com/frontend9/fe9-library/issues/created_by/ImHype ) | #00045 | 木羽 | 2018年10月29日 | 杭州 | 网易 |
 | [冬柠](https://github.com/frontend9/fe9-library/issues/created_by/JLraining ) | #00046 | STLighter | 2018年10月30日 | 杭州 | 阿里 |
+| [zsx](https://github.com/frontend9/fe9-library/issues/created_by/sxsoft ) | #00047 | 何幻 | 2018年10月30日 | 福州 | 福州大学 |
