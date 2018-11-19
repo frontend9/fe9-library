@@ -73,3 +73,4 @@
 | [kikyo](https://github.com/frontend9/fe9-library/issues/created_by/kikyo7 ) | #00049 | 尽龙 | 2018年10月30日 | 上海 | 依图科技 |
 | [三七二十](https://github.com/frontend9/fe9-library/issues/created_by/zuozijian3720 ) | #00050 | 何幻 | 2018年11月5日 | 北京 | 字节跳动 |
 | [imakan](https://github.com/frontend9/fe9-library/issues/created_by/imakan ) | #00051 | 何幻 | 2018年11月5日 | 北京 | 新浪 |
+| [Yu](https://github.com/frontend9/fe9-library/issues/created_by/YuArtian ) | #00052 | 何幻 | 2018年11月5日 | 上海 | SOHO |
