@@ -75,3 +75,4 @@
 | [imakan](https://github.com/frontend9/fe9-library/issues/created_by/imakan ) | #00051 | 何幻 | 2018年11月5日 | 北京 | 新浪 |
 | [Yu](https://github.com/frontend9/fe9-library/issues/created_by/YuArtian ) | #00052 | 何幻 | 2018年11月5日 | 上海 | SOHO |
 | [牧云云](https://github.com/frontend9/fe9-library/issues/created_by/MuYunyun ) | #00053 | 何幻 | 2018年11月5日 | 杭州 | 点我达 |
+| [虚光](https://github.com/frontend9/fe9-library/issues/created_by/zheNeng ) | #00054 | 何幻 | 2018年11月5日 | 上海 | 讯联 |
