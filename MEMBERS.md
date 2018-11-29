@@ -79,3 +79,4 @@
 | [月半](https://github.com/frontend9/fe9-library/issues/created_by/chenyueban ) | #00055 | 何幻 | 2018年11月6日 | 临沂 | 立晨数据 |
 | [林小辉](https://github.com/frontend9/fe9-library/issues/created_by/linpenghui958 ) | #00056 | 何幻 | 2018年11月6日 | 武汉 | 车安达 |
 | [伊撒尔](https://github.com/frontend9/fe9-library/issues/created_by/132yse ) | #00057 | 苹果醋 | 2018年11月6日 | 潍坊 | clicli |
+| [轶哥](https://github.com/frontend9/fe9-library/issues/created_by/yi-ge ) | #00058 | 何幻 | 2018年11月6日 | 昆明 | SOHO |
