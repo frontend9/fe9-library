@@ -68,7 +68,7 @@
 | [iuiaoin](https://github.com/frontend9/fe9-library/issues/created_by/iuiaoin ) | #00044 | ELCARIM | 2018年10月26日 | 杭州 | 网易 |
 | [君羽](https://github.com/frontend9/fe9-library/issues/created_by/ImHype ) | #00045 | 木羽 | 2018年10月29日 | 杭州 | 网易 |
 | [冬柠](https://github.com/frontend9/fe9-library/issues/created_by/JLraining ) | #00046 | STLighter | 2018年10月30日 | 杭州 | 阿里 |
-| [zsx](https://github.com/frontend9/fe9-library/issues/created_by/sxsoft ) | #00047 | 何幻 | 2018年10月30日 | 福州 | 福州大学 |
+| [zsx](https://github.com/frontend9/fe9-library/issues/created_by/zsxsoft ) | #00047 | 何幻 | 2018年10月30日 | 福州 | 福州大学 |
 | [织雪纱奈](https://github.com/frontend9/fe9-library/issues/created_by/Carrie999 ) | #00048 | 尽龙 | 2018年10月30日 | 北京 | 猎户星空 |
 | [kikyo](https://github.com/frontend9/fe9-library/issues/created_by/kikyo7 ) | #00049 | 尽龙 | 2018年10月30日 | 上海 | 依图科技 |
 | [三七二十](https://github.com/frontend9/fe9-library/issues/created_by/zuozijian3720 ) | #00050 | 何幻 | 2018年11月5日 | 北京 | 字节跳动 |
