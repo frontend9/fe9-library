@@ -81,3 +81,4 @@
 | [伊撒尔](https://github.com/frontend9/fe9-library/issues/created_by/132yse ) | #00057 | 苹果醋 | 2018年11月6日 | 潍坊 | clicli |
 | [轶哥](https://github.com/frontend9/fe9-library/issues/created_by/yi-ge ) | #00058 | 何幻 | 2018年11月6日 | 昆明 | SOHO |
 | [罗奇](https://github.com/frontend9/fe9-library/issues/created_by/logictuLuoqi ) | #00059 | 何幻 | 2018年11月6日 | 北海 | 桂林电子科技大学 |
+| [子慕](https://github.com/frontend9/fe9-library/issues/created_by/zimv ) | #00060 | 邈天 | 2018年11月11日 | 成都 | 企鹅医生 |
