@@ -84,3 +84,4 @@
 | [子慕](https://github.com/frontend9/fe9-library/issues/created_by/zimv ) | #00060 | 邈天 | 2018年11月11日 | 成都 | 企鹅医生 |
 | [whale](https://github.com/frontend9/fe9-library/issues/created_by/Youjingyu ) | #00061 | imakan | 2018年11月12日 | 北京 | 新浪 |
 | [熊二](https://github.com/frontend9/fe9-library/issues/created_by/xiongxt ) | #00062 | 邈天 | 2018年11月16日 | 成都 | 成都唯赢信息科技有限公司 |
+| [Sailor](https://github.com/frontend9/fe9-library/issues/created_by/zhanghao-zhoushan ) | #00063 | 邈天 | 2018年11月21日 | 上海 | 掌门1对1 |
