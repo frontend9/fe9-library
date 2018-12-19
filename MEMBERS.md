@@ -86,3 +86,4 @@
 | [熊二](https://github.com/frontend9/fe9-library/issues/created_by/xiongxt ) | #00062 | 邈天 | 2018年11月16日 | 成都 | 成都唯赢信息科技有限公司 |
 | [Sailor](https://github.com/frontend9/fe9-library/issues/created_by/zhanghao-zhoushan ) | #00063 | 邈天 | 2018年11月21日 | 上海 | 掌门1对1 |
 | [Forever](https://github.com/frontend9/fe9-library/issues/created_by/tianye19941001 ) | #00064 | 澜嵚 | 2018年11月22日 | 北京 | 奇虎360 |
+| [小撸](https://github.com/frontend9/fe9-library/issues/created_by/fegg ) | #00065 | 邈天 | 2018年11月22日 | 成都 | 蚂蚁 |
