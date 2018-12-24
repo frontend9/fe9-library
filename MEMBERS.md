@@ -88,3 +88,4 @@
 | [Forever](https://github.com/frontend9/fe9-library/issues/created_by/tianye19941001 ) | #00064 | 澜嵚 | 2018年11月22日 | 北京 | 奇虎360 |
 | [小撸](https://github.com/frontend9/fe9-library/issues/created_by/fegg ) | #00065 | 邈天 | 2018年11月22日 | 成都 | 蚂蚁 |
 | [一探](https://github.com/frontend9/fe9-library/issues/created_by/sosout ) | #00066 | muwoo | 2018年11月23日 | 杭州 | 零零期 |
+| [梦想成真](https://github.com/frontend9/fe9-library/issues/created_by/mxcz213 ) | #00067 | 何幻 | 2018年11月24日 | 上海 | 苏宁数据云公司 |
