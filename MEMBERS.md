@@ -90,3 +90,4 @@
 | [一探](https://github.com/frontend9/fe9-library/issues/created_by/sosout ) | #00066 | muwoo | 2018年11月23日 | 杭州 | 零零期 |
 | [梦想成真](https://github.com/frontend9/fe9-library/issues/created_by/mxcz213 ) | #00067 | 何幻 | 2018年11月24日 | 上海 | 苏宁数据云公司 |
 | [墨生](https://github.com/frontend9/fe9-library/issues/created_by/DanteLee ) | #00068 | 冬柠 | 2018年11月24日 | 成都 | 电子科技大学 |
+| [馬鹿](https://github.com/frontend9/fe9-library/issues/created_by/baka397 ) | #00069 | 邈天 | 2018年11月27日 | 重庆 | 重庆猪八戒知识产权 |
