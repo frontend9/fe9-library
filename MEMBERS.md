@@ -93,3 +93,4 @@
 | [馬鹿](https://github.com/frontend9/fe9-library/issues/created_by/baka397 ) | #00069 | 邈天 | 2018年11月27日 | 重庆 | 重庆猪八戒知识产权 |
 | [某兔](https://github.com/frontend9/fe9-library/issues/created_by/xiaoxiangmoe ) | #00070 | 何幻 | 2018年11月28日 | 北京 | momenta |
 | [一之](https://github.com/frontend9/fe9-library/issues/created_by/ShaoWeibin ) | #00071 | 邈天 | 2018年11月29日 | 成都 | 蚂蚁 |
+| [格子熊](https://github.com/frontend9/fe9-library/issues/created_by/KarthusLorin ) | #00072 | 染陌 | 2018年12月5日 | 杭州 | 海康威视 |
