@@ -96,3 +96,4 @@
 | [格子熊](https://github.com/frontend9/fe9-library/issues/created_by/KarthusLorin ) | #00072 | 染陌 | 2018年12月5日 | 杭州 | 海康威视 |
 | [Johnson](https://github.com/frontend9/fe9-library/issues/created_by/YES-Lee ) | #00073 | 轶哥 | 2018年12月10日 | 昆明 | 律品科技 |
 | [Wendy](https://github.com/frontend9/fe9-library/issues/created_by/Wendydesigner ) | #00074 | 染陌 | 2018年12月15日 | 北京 | VIPKID |
+| [陈亮](https://github.com/frontend9/fe9-library/issues/created_by/clChenLiang ) | #00075 | 段潇涵 | 2018年12月15日 | 杭州 | 海康威视 |
