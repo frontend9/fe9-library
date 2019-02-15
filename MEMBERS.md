@@ -99,3 +99,4 @@
 | [陈亮](https://github.com/frontend9/fe9-library/issues/created_by/clChenLiang ) | #00075 | 段潇涵 | 2018年12月15日 | 杭州 | 海康威视 |
 | [龔桀](https://github.com/frontend9/fe9-library/issues/created_by/yiranjason ) | #00076 | 未知 | 2018年12月16日 | 杭州 | 未知 |
 | [木易杨](https://github.com/frontend9/fe9-library/issues/created_by/yygmind ) | #00077 | 木羽 | 2018年12月17日 | 杭州 | 网易 |
+| [慕阳](https://github.com/frontend9/fe9-library/issues/created_by/GoDotDotDot ) | #00078 | 邈天 | 2018年12月28日 | 杭州 | 蚂蚁 |
