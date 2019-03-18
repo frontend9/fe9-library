@@ -102,3 +102,4 @@
 | [慕阳](https://github.com/frontend9/fe9-library/issues/created_by/GoDotDotDot ) | #00078 | 邈天 | 2018年12月28日 | 杭州 | 蚂蚁 |
 | [北斗](https://github.com/frontend9/fe9-library/issues/created_by/chunhuigao ) | #00079 | CC | 2019年1月20日 | 杭州 | 汉克时代 |
 | [itagn](https://github.com/frontend9/fe9-library/issues/created_by/itagn ) | #00080 | qiangdada | 2019年1月22日 | 成都 | 中移物联网有限公司 |
+| [onlyling](https://github.com/frontend9/fe9-library/issues/created_by/onlyling ) | #00081 | 邈天 | 2019年1月23日 | 重庆 | 上海亚信在线科技有限公司|
