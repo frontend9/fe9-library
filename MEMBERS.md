@@ -104,3 +104,4 @@
 | [itagn](https://github.com/frontend9/fe9-library/issues/created_by/itagn ) | #00080 | qiangdada | 2019年1月22日 | 成都 | 中移物联网有限公司 |
 | [onlyling](https://github.com/frontend9/fe9-library/issues/created_by/onlyling ) | #00081 | 邈天 | 2019年1月23日 | 重庆 | 上海亚信在线科技有限公司 |
 | [晴小篆](https://github.com/frontend9/fe9-library/issues/created_by/yanlele ) | #00082 | 馬鹿 | 2019年1月23日 | 成都 | 字节跳动 |
+| [cat](https://github.com/frontend9/fe9-library/issues/created_by/HaoDaWang ) | #00083 | 伊撒尔 | 2019年2月12日 | 成都 | 校精灵 |
