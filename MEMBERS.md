@@ -101,7 +101,7 @@
 | [木易杨](https://github.com/frontend9/fe9-library/issues/created_by/yygmind ) | #00077 | 木羽 | 2018年12月17日 | 杭州 | 网易 |
 | [慕阳](https://github.com/frontend9/fe9-library/issues/created_by/GoDotDotDot ) | #00078 | 邈天 | 2018年12月28日 | 杭州 | 蚂蚁 |
 | [北斗](https://github.com/frontend9/fe9-library/issues/created_by/chunhuigao ) | #00079 | CC | 2019年1月20日 | 杭州 | 汉克时代 |
-| [itagn](https://github.com/frontend9/fe9-library/issues/created_by/itagn ) | #00080 | qiangdada | 2019年1月22日 | 成都 | 中移物联网有限公司 |
+| [itagn](https://github.com/frontend9/fe9-library/issues/created_by/itagn ) | #00080 | qiangdada | 2019年1月22日 | 成都 | 招银网络科技 |
 | [onlyling](https://github.com/frontend9/fe9-library/issues/created_by/onlyling ) | #00081 | 邈天 | 2019年1月23日 | 重庆 | 上海亚信在线科技有限公司 |
 | [晴小篆](https://github.com/frontend9/fe9-library/issues/created_by/yanlele ) | #00082 | 馬鹿 | 2019年1月23日 | 成都 | 字节跳动 |
 | [cat](https://github.com/frontend9/fe9-library/issues/created_by/HaoDaWang ) | #00083 | 伊撒尔 | 2019年2月12日 | 成都 | 校精灵 |
