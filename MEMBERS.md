@@ -106,3 +106,5 @@
 | [晴小篆](https://github.com/frontend9/fe9-library/issues/created_by/yanlele ) | #00082 | 馬鹿 | 2019年1月23日 | 成都 | 字节跳动 |
 | [cat](https://github.com/frontend9/fe9-library/issues/created_by/HaoDaWang ) | #00083 | 伊撒尔 | 2019年2月12日 | 成都 | 校精灵 |
 | [守候](https://github.com/frontend9/fe9-library/issues/created_by/chenhuiYj ) | #00084 | 木羽 | 2019年2月13日 | 广州 | 自由职业 |
+| [渚薰](https://github.com/frontend9/fe9-library/issuesj ) | #00085 | cc | 2019年4月2日 | 杭州 | 阿里 |
+| [邈天](https://github.com/frontend9/fe9-library/issuesj ) | #00086 | cc | 2019年4月2日 | 成都 | 蚂蚁 |
