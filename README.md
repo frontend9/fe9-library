@@ -12,7 +12,7 @@
 具有共创色彩的九部精选文章 & 成员共同编写的手册
 - [《九部知识库-精选集》](https://www.yuque.com/fe9/select)
 - [《前端九部 - 入门者手册2019》](https://www.yuque.com/fe9/basic/zw24qu) 基础前端手册，欢迎大家积极参与完善
-- [《前端九部 - 从业者手册2019》](https://www.yuque.com/fe9/advanced) 题材不限，介绍潮流前端技术与年度新技术使用，欢迎投稿
+- [《前端九部 - 前端面试题题库》](https://github.com/frontend9/fe9-interview) 分享自己在各种公司面试时遇到的各种面试题，探讨宇宙终极答案
 
 ---
 
